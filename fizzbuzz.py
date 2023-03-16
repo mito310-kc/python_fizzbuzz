@@ -1,7 +1,7 @@
 print("Fizz Buzz start!!!!")
 def fizz_buzz(i):
     print(i)   
-    if i % 3 == 0 nd i % 5 == 0:
+    if i % 3 == 0 and i % 5 == 0:
         print("Fizz Buzz")
     elif i % 3==0:
         print("Fizz")
